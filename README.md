@@ -18,8 +18,3 @@ JavaScript, OpenAI, HTML, CSS
 
 ### 📋 Briefing
 Chatbot webpage build was initiated to allow the user to ask general questions to the GPT model.
-
-## Install Instructions
-Upon downloading the repo, proceed with a quick start workflow using the following script in your terminal.
-- `npm install`
-- `npm start`
